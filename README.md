@@ -2,13 +2,17 @@
 
 A responsive clone of the Netflix landing page built using HTML and CSS. This project was created to practice modern web development and design skills.
 
-**[➡️ Live Demo Link](YOUR_LIVE_DEMO_LINK_HERE)**
+**[➡️ Live Demo Link](https://jatin2004-code.github.io/Netflix-clone/)**
 
 ---
 
 ## 📸 Screenshot
 
-![Netflix Clone Screenshot](./images/screenshot.png)
+<p align="center">
+  <img src="./images/screenshot-1.png" alt="screenshot-1" width="280"/>
+  <img src="./images/screenshot-2.png" alt="screenshot-2" width="280"/>
+  <img src="./images/screenshot-3.png" alt="screenshot-3" width="280"/>
+</p>
 
 ---
 
